@@ -1,0 +1,12 @@
+.in {
+    background-image: url("img/bg1.png");
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+
+.in1 {
+    padding: 20 10 20;
+    
+}
+
+@media (min-width: 576px) {}
