@@ -5,27 +5,13 @@
 }
 
 .in1 {
-    padding: 50px 20px 30px;
-} /* for introduction*/
+    padding: 30 20 30;
 
-.space {
-    height:35px;
-    background-color:black;
-}
-
-.cinzel {
-    font-family: Cinzel;
-}
-
-.AnekTelugu {
-    font-family: Anek+Telugu;
 }
 
 .white {
     color:white;
-    font-family: Anek+Telugu;
 }
-
 @media (min-width: 576px) {
     navbar {
         
