@@ -5,12 +5,30 @@
 }
 
 .in1 {
-    padding: 50px 20px 30px;
+    padding: 30px 20px 30px;
 } /* for introduction*/
 
 .space {
     height:35px;
     background-color:black;
+}
+
+.sh {
+    background-image: url("img/bg2.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.sh1 {
+    padding: 20px 0px 20px 0px;
+}
+
+.sh2 {
+    padding: 0px 0px 20px 0px;
+}
+
+.card {
+    height: 100%;
 }
 
 .cinzel {
@@ -28,6 +46,6 @@
 
 @media (min-width: 576px) {
     navbar {
-        
+        /* fix cards in smaller screen*/
     }
 }
