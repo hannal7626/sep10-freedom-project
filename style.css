@@ -31,6 +31,9 @@
     height: 100%;
 }
 
+.b {
+    background-color: #050B35;
+}
 .cinzel {
     font-family: Cinzel;
 }
@@ -42,6 +45,10 @@
 .white {
     color:white;
     font-family: Anek+Telugu;
+}
+
+.yellow {
+    color: #C89933;
 }
 
 @media (min-width: 576px) {
