@@ -52,7 +52,12 @@
 }
 
 @media (min-width: 576px) {
-    navbar {
+    .sm {
+    flex: 0 0 auto;
+    width: 8.33333333%;
         /* fix cards in smaller screen*/
     }
 }
+
+@media (max-width: 767.98px) {
+    ... }
