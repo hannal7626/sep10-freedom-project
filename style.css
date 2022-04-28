@@ -63,8 +63,24 @@
 /*    }*/
 /*}*/
 
-@media (min-width: 1550px) {
-    .len {
-        width:1262;
-        height:954.398;
+/*a:link - a normal, unvisited link*/
+/*a:visited - a link the user has visited*/
+/*a:hover - a link when the user mouses over it*/
+/*a:active - a link the moment it is clicked*/
+
+/*links*/
+
+a:link {
+    color: #AD915E;
+    text-decoration: none;
+}
+
+a:visted {
+    color: green;
+    text-decoration:none;
+}
+
+a:hover {
+    color: #E084D4;
+    text-decoration: underline;
 }
