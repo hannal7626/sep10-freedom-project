@@ -6,7 +6,7 @@
 
 .in1 {
     padding: 30px 20px 30px;
-} /* for introduction*/
+} 
 
 .space {
     height:35px;
@@ -83,4 +83,8 @@ a:visted {
 a:hover {
     color: #E084D4;
     text-decoration: underline;
+}
+
+h1 {
+    font-size: 30px;
 }
