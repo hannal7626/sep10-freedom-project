@@ -1,5 +1,6 @@
 .in {
     background-image: url("img/bg1.png");
+    opacity: 1.0;
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -8,6 +9,10 @@
     padding: 30px 20px 30px;
 } 
 
+.bg-light-blue {
+    background-color: #152439;
+    opacity: 0.90;
+}
 .space {
     height:35px;
     background-color:black;
@@ -36,7 +41,7 @@
 }
 
 .b {
-    background-color: #050B35;
+  background-image: linear-gradient(to bottom right, #152439, #F5DDDD);
 }
 .cinzel {
     font-family: Cinzel;
@@ -53,6 +58,22 @@
 
 .yellow {
     color: #ECA400;
+}
+
+.taupegray {
+    color: #88AB75;
+}
+
+.green {
+    color: #BBD686;
+}
+
+.lavender {
+    color: #EEEEFF;
+}
+
+.viridian green {
+    color: #119DA4;
 }
 
 /*@media (min-width: 576px) {*/
